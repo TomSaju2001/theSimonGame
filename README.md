@@ -1,4 +1,4 @@
 # The Simon Game
 
-![Screenshot 1](readmeimages/Screenshot1.png)
-![Screenshot 2](readmeimages/Screenshot2.png)
+![Screenshot 1](readmeImages/Screenshot1.png)
+![Screenshot 2](readmeImages/Screenshot2.png)
